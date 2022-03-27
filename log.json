@@ -1,0 +1,8 @@
+{"level":"info","ts":"2022-03-27T20:59:23.602+0530","caller":"utils/logger.go:28","msg":"Hello World"}
+{"level":"error","ts":"2022-03-27T20:59:23.603+0530","caller":"utils/logger.go:36","msg":"Not able to reach blog.","url":"codewithmukesh.com","stacktrace":"github.com/iammukeshm/structured-logging-golang-zap/utils.Error\n\tD:/go-repo/structured-logging-golang-zap/utils/logger.go:36\nmain.main\n\tD:/go-repo/structured-logging-golang-zap/main.go:11\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2022-03-27T21:00:08.862+0530","msg":"Hello World"}
+{"level":"error","ts":"2022-03-27T21:00:08.863+0530","msg":"Not able to reach blog.","url":"codewithmukesh.com","stacktrace":"github.com/iammukeshm/structured-logging-golang-zap/utils.Error\n\tD:/go-repo/structured-logging-golang-zap/utils/logger.go:36\nmain.main\n\tD:/go-repo/structured-logging-golang-zap/main.go:11\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2022-03-27T21:06:57.051+0530","msg":"Hello World"}
+{"level":"error","ts":"2022-03-27T21:06:57.051+0530","msg":"Not able to reach blog.","url":"codewithmukesh.com","stacktrace":"main.main\n\tD:/go-repo/structured-logging-golang-zap/main.go:11\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2022-03-27T21:07:09.090+0530","caller":"structured-logging-golang-zap/main.go:10","msg":"Hello World"}
+{"level":"error","ts":"2022-03-27T21:07:09.091+0530","caller":"structured-logging-golang-zap/main.go:11","msg":"Not able to reach blog.","url":"codewithmukesh.com","stacktrace":"main.main\n\tD:/go-repo/structured-logging-golang-zap/main.go:11\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
